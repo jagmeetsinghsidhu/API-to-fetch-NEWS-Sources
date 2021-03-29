@@ -1,0 +1,19 @@
+To run the API 
+Run The following commands
+
+npm Install
+npm install -g nodemon
+nodemon
+
+Then The database mongo db would be connected
+
+The server will be started at localhost port number 3000.
+Postman GET request would be posted Postman -> GET http://localhost:3000/news/fetchAndUpdate
+
+Response:
+Sources of top 10 headlines news from https://newsapi.org/
+
+API called for fetching sources:
+GET https://newsapi.org/v2/sources?apiKey=API_KEY
+
+The same data will be saved in the MongoDB cloud.
