@@ -1,0 +1,13 @@
+Tech Stack Used
+
+NodeJS, Mongo DB Database
+
+Api Used - https://newsapi.org/ (Return Different valid sources of news to avoid the false news around the world, 
+Retrieve articles and breaking news headlines from news sources and blogs across the web with our JSON API)
+
+PostMan - for GET request
+
+You have to have MongoDB account
+
+I have attached some screenshots to see how the api is posting request and retrieving data from api
+
